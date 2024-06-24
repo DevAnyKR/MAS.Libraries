@@ -1,0 +1,25 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.1</TargetFramework>
+    <Nullable>enable</Nullable>
+    <Company>DevAny</Company>
+    <Authors>DevAny.KR</Authors>
+    <Copyright>DevAny</Copyright>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Compile Remove="System.Drawing.cs" />
+    <Compile Remove="System\Calculate.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Include="System.Drawing.cs" />
+    <None Include="System\Calculate.cs" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="System.Drawing.Common" Version="8.0.6" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.10.35013.160
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MAS.Extensions", "MAS.Extensions\MAS.Extensions.csproj", "{E9665166-6D99-4082-960C-B97FEF95D6CA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MAS.Extensions.NET48", "MAS.Extensions.NET48\MAS.Extensions.NET48.csproj", "{C4620F94-CD05-4E42-8049-D89B7C6DF468}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E9665166-6D99-4082-960C-B97FEF95D6CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E9665166-6D99-4082-960C-B97FEF95D6CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E9665166-6D99-4082-960C-B97FEF95D6CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E9665166-6D99-4082-960C-B97FEF95D6CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4620F94-CD05-4E42-8049-D89B7C6DF468}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4620F94-CD05-4E42-8049-D89B7C6DF468}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4620F94-CD05-4E42-8049-D89B7C6DF468}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4620F94-CD05-4E42-8049-D89B7C6DF468}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7B46295F-0966-4B3D-BB23-C6A64C3DD836}
+	EndGlobalSection
+EndGlobal
