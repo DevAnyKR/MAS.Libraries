@@ -29,10 +29,10 @@
 - Serial 통신에 사용됩니다.
 
 ## End User
-- NEUROS
-- DIC
-- DYAUTO
-- ASENTEC
-- EARTH MAGNET
-- HYUNDAI MOBIS
-- NEO MAGNETIC
+- NEUROS (뉴로스)
+- DIC (디아이씨, 092200)
+- DYAUTO (디와이오토, 013570)
+- ASENTEC (아센텍)
+- EARTH MAGNET (지구마그넷)
+- HYUNDAI MOBIS (현대 모비스, 012330)
+- NEO MAGNETIC (네오마그네틱)
