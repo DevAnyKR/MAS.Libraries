@@ -28,7 +28,7 @@
 ### MAS.Serial
 - Serial 통신에 사용됩니다.
 
-## Used
+## End User
 - NEUROS
 - DIC
 - DYAUTO
